@@ -1,0 +1,63 @@
+main {
+    border: 2px solid black;
+    margin: 5px;
+    background-color: rgba(0, 217, 255, 0.539);
+    padding: 15px;
+    text-align: center;
+}
+main img{
+    border: 2px solid black;
+    max-width: 500px;
+    text-align: center;
+    max-width: 500px;
+
+}
+.ok1{
+    margin: 5px;
+}
+.div1{
+    border: 2px solid black;
+    margin: 5px;
+    background-color: rgba(0, 217, 255, 0.539);
+    font-size: 15px;
+    color: black;
+    padding: 15px;
+    text-align: center;
+    max-width: 100%;
+
+}
+.div1 img{
+    border: 2px solid black;
+    max-width: 500px;
+    text-align: center;
+    max-width: 500px;
+
+}
+.div2{
+    border: 2px solid black;
+    margin: 5px;
+    background-color: rgba(0, 217, 255, 0.539);
+    font-size: 15px;
+    color: black;
+    padding: 15px;
+    text-align: center;
+    max-width: 100%;
+}
+.div2 img{
+    max-width: 30%;
+}
+.div3{
+    border: 2px solid black;
+    margin: 5px;
+    background-color: rgba(0, 217, 255, 0.539);
+    font-size: 15px;
+    color: black;
+    padding: 15px;
+    text-align: center;
+    max-width: 100%;
+}
+.div3 img{
+    max-width: 30%;
+}
+
+
